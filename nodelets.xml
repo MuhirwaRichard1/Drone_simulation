@@ -1,0 +1,5 @@
+<library path="lib/libReplaceme">
+  <class name="replaceme/Replaceme" type="replaceme::Replaceme" base_class_type="nodelet::Nodelet">
+    <description>Replaceme nodelet</description>
+  </class>
+</library>
